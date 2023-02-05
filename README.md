@@ -7,17 +7,17 @@ This code generates random sentences using arrays of names, places, verbs, nouns
 
 The code defines the following arrays:
 
-- 'names': An array of names.
+- **'names'**: An array of names.
 
-- places: An array of places.
+- **'places'**: An array of places.
 
-- verbs: An array of verbs.
+- **'verbs'**: An array of verbs.
 
-- nouns: An array of nouns.
+- **'nouns'**: An array of nouns.
 
-- adverbs: An array of adverbs.
+- **'adverbs'**: An array of adverbs.
 
-- details: An array of additional details.
+- **'details'**: An array of additional details.
 
 ## 2. Function: GetRandomWord
 
