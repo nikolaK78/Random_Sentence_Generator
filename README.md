@@ -39,4 +39,9 @@ The **'GetRandomWord'** function takes an array of words as an input and returns
 
 4. Output the generated sentence and prompt the user to press **[Enter]** to generate a new one.
 
-<img src="GetRandomWord.png" alt="Alt text" title="GetRandomWord">
+<img src="SentenceStructure.png" >
+
+## Example Usage
+
+<img src="Example.png">
+
